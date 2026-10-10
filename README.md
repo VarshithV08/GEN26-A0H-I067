@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I067
 ### Team Details
-#### **Team Name** <<Aviators>> <br/>
+#### **Team Name** Aviators <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   | Hostel Details          |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:---------------------------:|:----------------------:| 
